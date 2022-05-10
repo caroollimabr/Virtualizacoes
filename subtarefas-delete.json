@@ -1,4 +1,6 @@
-"pathParameter"
+"endpoint": "http://api.gerenciame.com/v1/tarefas/{id_tarefa}/subtarefas/{id_subtarefa}"{delete}
+"pathParameters"
 {
+    "id_tarefa": 1,
     "id_subtarefa": 1
 }
