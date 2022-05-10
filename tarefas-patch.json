@@ -1,0 +1,19 @@
+"pathParameter"
+{
+    "id_tarefa": 1
+}
+"body"
+{
+    "nome_tarefa": "tarefa1",
+    "data_inicial": "2022-04-30",
+    "data_limite": "2022-05-06",
+    "hora": "18:00",
+    "descricao": "blablabla",
+    "subtarefas": [
+        {
+            "nome_subtarefa": "subtarefa1",
+            "anexo_subtarefa": "imagem1.jpg",
+            "status_subtarefa": "a fazer"
+        }
+    ]
+}
